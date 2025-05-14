@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Desarrollador Full Stack | Teaching Assistant en 4Geeks Academy
 
-Graduado de 4Geeks Academy y apasionado por crear soluciones innovadoras con código limpio y eficiente. Actualmente me desempeño como Teaching Assistant en la misma institución, ayudando a nuevos estudiantes a desarrollar sus habilidades en programación.
+Graduado de 4Geeks Academy y apasionado por crear soluciones innovadoras con código limpio y eficiente. Actualmente me desempeño como Teaching Assistant en la misma institución, ayudando a nuevos estudiantes a desarrollar sus habilidades en programación. Enfocado en el aprendizaje constante, con excelentes habilidades de comunicación y trabajo en equipo. Destaco por una mentalidad orientada a la resolución de problemas. Motivado por seguir desarrollándome profesionalmente.
 
 ---
 
