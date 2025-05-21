@@ -15,9 +15,11 @@ Graduado de 4Geeks Academy y apasionado por crear soluciones innovadoras con có
 ### 💼 Experiencia
 
 - **Teaching Assistant** - 4Geeks Academy (Actual)
-  - Apoyo a estudiantes en su camino de aprendizaje de desarrollo web
-  - Revisión de código y feedback en proyectos
-  - Facilitación de sesiones de resolución de problemas
+  - Apoyo técnico a estudiantes en proyectos de programación
+  - Revisión de código y retroalimentación de ejercicios
+  - Tutorías individuales para resolver dudas
+  - Asistencia en clases prácticas junto al instructor principal
+  - Seguimiento del progreso de los estudiantes
 
 ---
 
