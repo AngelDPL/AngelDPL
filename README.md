@@ -49,7 +49,7 @@ Desarrollador Full Stack graduado de 4Geeks Academy y Teaching Assistant en la m
 
 | Proyecto | Descripción | Stack | Links |
 |----------|-------------|-------|-------|
-| **MealMind** | App de planificación semanal de comidas con auth JWT | Flask · React · PostgreSQL | [Demo](https://vercel.com/angeldpls-projects/meal-mind) · [Code](https://github.com/AngelDPL/mi-portfolio) |
+| **MealMind** | App de planificación semanal de comidas con auth JWT | Flask · React · PostgreSQL | [Demo](https://meal-mind-seven.vercel.app) · [Code](https://github.com/AngelDPL/mi-portfolio) |
 ---
 
 ## `> STATS.json`
